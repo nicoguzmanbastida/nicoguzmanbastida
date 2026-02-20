@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm Nico!
 
-<!--
-**nicoguzmanbastida/nicoguzmanbastida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at UFV Madrid. I enjoy building practical software, learning how computers work under the hood, and improving my cybersecurity fundamentals.
 
-Here are some ideas to get you started:
+## What I’m into
+- Software development (clean, maintainable code)
+- Low-level computer architecture curiosity
+- Cybersecurity basics (secure coding, Linux fundamentals)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- Languages: C, C#, JavaScript, SQL, Bash
+- Web: HTML, CSS
+- Tools: Git/GitHub, Linux
+
+## What I do
+- Build web applications and small end-to-end projects
+- Create automation scripts and AI-powered workflows to save time
+- Learn by shipping: small iterations, measurable improvements
+
+## Currently learning
+- Advanced algorithm design and data structures
+- Database design and query optimization
+- Security fundamentals (threat mindset, secure development practices)
+
+## How to reach me
+- Email: nico_guzmanbastida@hotmail.com
+
+## Fun facts
+- I play basketball regularly
+- I mix music as DJ Nico
+- I also enjoy video games when I’m off-screen
